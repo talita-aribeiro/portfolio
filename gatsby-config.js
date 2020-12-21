@@ -1,11 +1,12 @@
 require('dotenv').config();
 
 module.exports = {
+  pathPrefix: `/portfolio`,
   siteMetadata: {
     title: `Talita Ribeiro`,
     description: `Site pessoal e blog sobre desenvolvimento de software, bleeding edge, open source e maluquices extremamente interessantes para aqueles que gostam de aprender e criar coisas novas.`,
     author: `@talita-aribeiro`,
-    siteUrl: 'https://site.com'
+    siteUrl: `https://talita-aribeiro.github.io/portfolio/`
   },
   plugins: [
     'gatsby-plugin-transition-link',
