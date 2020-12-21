@@ -7,7 +7,6 @@ import { BsCodeSlash } from 'react-icons/bs';
 import { BiCalendarHeart } from 'react-icons/bi';
 import { main } from '../../styles/themes';
 
-
 const Default = `
   &:hover {
     color: ${main.orange};
@@ -31,17 +30,12 @@ const Achievements = styled(BiCalendarHeart)`
   ${Default}
 `;
 
-
 const Linkedin = styled(FaLinkedinIn)`
   ${Default}
 `;
 const Github = styled(FiGithub)`
   ${Default}
 `;
-
-// const Devto = styled(FaDev)`
-//   ${Default}
-// `;
 
 export const links = [
   {
