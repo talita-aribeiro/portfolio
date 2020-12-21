@@ -70,8 +70,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Wendel de Freitas Branco`,
-        short_name: `wendel.dev`,
+        name: `Talita Ribeiro`,
+        short_name: `talita-aribeiro`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#dd7e09`,
