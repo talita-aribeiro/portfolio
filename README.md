@@ -1,12 +1,12 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
-<p align="center">
-  <a href="https://wendel.dev">
-    <img alt="Talita Ribeiro" src="https://raw.githubusercontent.com/wendelfreitas/wendel.dev/master/src/images/caricature.png?token=AID6CIMJN47LQIRF3FLSUAS6R4LCI" width="300" />
-  </a>
-</p>
 <h1 align="center">
   Talita Ribeiro 
 </h1>
+<p align="center">
+  Bem-vinda e Bem-vindo ao repositório de meu portfólio, aqui manterei atualizada minha evolução na carreira de desenvolvimento e contribuição nas comunidades que tanto tem me ajudado nesta travessia.
+</p>
+
+### PS. Agradecimentos ao projeto Open Source de [Wendel Freitas](https://github.com/wendelfreitas/wendel.dev) por esse template inspirador.
 
 Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
 
@@ -92,8 +92,6 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 ## 💫 Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
-
-[![Deploy with ZEIT Now](https://zeit.co/button)](https://zeit.co/import/project?template=https://github.com/gatsbyjs/gatsby-starter-default)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8256a5e9-71ed-4429-95a2-e05fb8ba9a6d/deploy-status)](https://app.netlify.com/sites/talita-aribeiro/deploys)
 
 <!-- AUTO-GENERATED-CONTENT:END -->
