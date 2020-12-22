@@ -39,6 +39,10 @@ const Title = styled.h1`
   color: ${({ theme }) => theme.text};
   font-size: ${({ size }) => `${size}px` || '70px'};
   margin: 0;
+  @media(max-width: 400px) {
+    padding: 0 10px;
+    font-size: 35px;
+  }
 `;
 
 const Name = styled.b`
@@ -46,6 +50,10 @@ const Name = styled.b`
   font-size: 55px;
   margin-top: 10px;
   margin-bottom: 10px;
+  @media(max-width: 400px) {
+    padding: 0 10px;
+    font-size: 35px;
+  }
 `;
 
 const Subtitle = styled.p`

@@ -89,7 +89,6 @@ const AboutPage = () => (
           <ExternalLink aria-label="e-mail" href="mailto:talitaribeiro@outlook.com.br">
             talitaribeiro@outlook.com.br
           </ExternalLink>
-          .
         </Description>
       </AboutMeWrapper>
       <SkillWrapper>

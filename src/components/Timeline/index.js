@@ -97,7 +97,7 @@ const Timeline = () => (
 
       <VerticalTimelineElement
         className="vertical-timeline-element--work"
-        date="2017-2019"
+        date="2018-2019"
         contentStyle={styles.border}
         iconStyle={styles.content}
         icon={<MdWork />}
