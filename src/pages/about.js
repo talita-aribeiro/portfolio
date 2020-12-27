@@ -77,10 +77,10 @@ const AboutPage = () => (
           e atualmente moro em São Paulo (SP) com meu esposo Fernando. Em 2018 me
           formei em Secretariado pela FECAP. Depois de trabalhar na área administrativa e
           ver o quanto a carreira de secretária executiva pode ser desvalorizada decidi
-          explorar o universo de programação e com a ajuda das meninas do PrograMaria
+          explorar o universo da programação e com a ajuda das meninas do PrograMaria
           iniciei meus primeiros passos nesse universo tão amplo e desafiador.
           Esse curso foi fundamental para me dar um norte de aprendizado
-          na área de programação e desde então venho me capacitando com cursos e
+          na área da programação e desde então venho me capacitando com cursos e
           me preparando para dar início a minha jornada como desenvolvedora.
           <br />
           <br />
